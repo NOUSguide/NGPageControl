@@ -14,7 +14,7 @@ self.pageControl.imageForDefaultPageIndicator = [UIImage imageNamed:@"Unselected
 
 ## Credits
 
-NGPageControl was created by [Philip Messlehner](https://github.com/messi/) (http://twitter.com/PhM) and was inspired from code from Thomas Heingärtner.
+NGPageControl was created by [Philip Messlehner](https://github.com/messi/) (http://twitter.com/messphilip) and was inspired from code from Thomas Heingärtner.
 
 It's based on the source code from the Blogpost by [OmniDev](http://www.onidev.com/2009/12/02/customisable-uipagecontrol/).
 
